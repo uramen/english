@@ -20,11 +20,16 @@ PAST SIMPLE - (verb + ed/II irr. verbs)
 
 Coordinating Conjunctions (Сочинительные союзы)
 -----------------------------------------------
-| Conjunctions          | Translate                  | Example                                              |
-| ----------------------|----------------------------| -----------------------------------------------------|
-| `as well as`          | так же как, а так же       | So I'll be bold, `as well as` strong                 |
-| `both of`             | оба                        | Behind `both of` my eyes                             |
-| `both` something `and`| Ни только одно но и другое | He is `both` an intelligent boss `and` a good father |
+| Conjunctions              | Translate                  | Example                                                       |
+| --------------------------|----------------------------| --------------------------------------------------------------|
+|  x `as well as` y         | Так же как, а так же       | So I'll be bold, `as well as` strong                          |
+| `both of`                 | Оба                        | Behind `both of` my eyes                                      |
+| `both` x `and` y          | Ни только одно но и другое | He is `both` an intelligent boss `and` a good father          | 
+| `neither` x `nor` y       | Ни то ни другое            | I could `neither` laugh `nor` cry                             |
+| `not only` x `but also` y | Ни только x но и y         | The car `not only` is economical `but also` good to drive     |  
+| `however`                 | Однако                     | Tom has money. `However`, he's not all that happy             |   
+| `nevertheless`            | Тем не менее               | It was a predictable, but `nevertheless` funny, story         |
+| `whereas`                 | В то время как             | `Whereas` U.K. and United States is getting richer and richer |
 
 PHRASAL VERBS
 -------------
