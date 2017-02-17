@@ -19,23 +19,26 @@ PAST SIMPLE - (verb + ed/II irr. verbs)
 4. Negative - (I didn't + infinitive)
 
 Coordinating Conjunctions (Сочинительные союзы)
--------------------------
-+ `as well as` - <i>так же как, а так же</i> (So I'll be bold, `as well as` strong)
-+ `both of` <i>оба</i> - (Behind `both of` my eyes)
-+ `both` something `and` - (He is `both` an intelligent boss `and` a good father)
+-----------------------------------------------
++ `as well as` - <i>так же как, а так же</i> 
+<p>(So I'll be bold, `as well as` strong)</p>
++ `both of` - <i>оба</i>
+<p>(Behind `both of` my eyes)</p>
++ `both` something `and` - <i>Ни только одно но и другое</i>
+<p>(He is `both` an intelligent boss `and` a good father)</p>
 
 PHRASAL VERBS
 -------------
 ###LOOK
-+ look up - искать, улучшаться
-+ look up to - уважать, считатся с кем то
-+ look down(on) - смотреть свысока
-+ look over - пересматривать еще раз
-+ look through - пересматривать еще раз (больше)
-+ look in on - присматривать за кем то
-+ look after - присматривать за кем то (больше)
-+ look into - исследовать в чем причина, вникать в суть
-+ look out - берегись
-+ look around - осмотреться
++ `look up` - искать, улучшаться
++ `look up to` - уважать, считатся с кем то
++ `look down(on)` - смотреть свысока
++ `look over` - пересматривать еще раз
++ `look through` - пересматривать еще раз (больше)
++ `look in on` - присматривать за кем то
++ `look after` - присматривать за кем то (больше)
++ `look into` - исследовать в чем причина, вникать в суть
++ `look out` - берегись
++ `look around` - осмотреться
 
 
