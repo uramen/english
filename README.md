@@ -18,6 +18,11 @@ PAST SIMPLE - (verb + ed/II irr. verbs)
 3. Question - (Did + infinitive)
 4. Negative - (I didn't + infinitive)
 
+Coordinating Conjunctions (Сочинительные союзы)
+-------------------------
++ `as well as` - <i>так же как, а так же</i> (So I'll be bold, `as well as` strong)
++ `both of` <i>оба</i> - (Behind `both of` my eyes)
++ `both` something `and` - (He is `both` an intelligent boss `and` a good father)
 
 PHRASAL VERBS
 -------------
