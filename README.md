@@ -20,9 +20,9 @@ PAST SIMPLE - (verb + ed/II irr. verbs)
 
 Coordinating Conjunctions (Сочинительные союзы)
 -----------------------------------------------
-+ `as well as` - так же как, а так же </br> (So I'll be bold, `as well as` strong)
-+ `both of` - оба <br> (Behind `both of` my eyes)
-+ `both` something `and` - Ни только одно но и другое </br> (He is `both` an intelligent boss `and` a good father)
++ `as well as` - так же как, а так же </br> (So I'll be bold, `as well as` strong) </br>
++ `both of` - оба <br> (Behind `both of` my eyes) </br>
++ `both` something `and` - Ни только одно но и другое </br> (He is `both` an intelligent boss `and` a good father) </br>
 
 PHRASAL VERBS
 -------------
