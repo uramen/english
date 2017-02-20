@@ -31,6 +31,10 @@ Coordinating Conjunctions (Сочинительные союзы)
 | `nevertheless`            | Тем не менее               | It was a predictable, but `nevertheless` funny, story         |
 | `whereas`                 | В то время как             | `Whereas` U.K. and United States is getting richer and richer |
 
+VERSUS
+------
+`all` vs `whole` - `all` is everything, `whole` is complete.
+
 PHRASAL VERBS
 -------------
 ###LOOK
