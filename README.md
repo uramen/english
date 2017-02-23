@@ -34,6 +34,7 @@ Coordinating Conjunctions (Сочинительные союзы)
 VERSUS
 ------
 `all` vs `whole` - `all` is everything, `whole` is complete. "The whole" and "All the" diff grammar.
+`There is` vs `There are` - `There is` 1 person or object, `There are` many.
 
 PHRASAL VERBS
 -------------
