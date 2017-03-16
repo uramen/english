@@ -62,6 +62,18 @@ PHRASAL VERBS
 + `pass off` - притворятся кем то
 + `pass around` - роздавать
 
+###CARRY
++ `carry on` - продолжать
++ `carry on with` - флиртовать
++ `carry over` - перенести что то (встречу, тд)
++ `carry back` - ностальгировать
++ `carry away` - нести груз на плечах
++ `carry on` - продолжать
++ `carry on` - продолжать
++ `carry on` - продолжать
++ `carry on` - продолжать
+
+
 ###GOOD PHRASE
 + `I can't help but smth` - я не могу не делать что то
 
