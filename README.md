@@ -68,11 +68,8 @@ PHRASAL VERBS
 + `carry over` - перенести что то (встречу, тд)
 + `carry back` - ностальгировать
 + `carry away` - нести груз на плечах
-+ `carry on` - продолжать
-+ `carry on` - продолжать
-+ `carry on` - продолжать
-+ `carry on` - продолжать
-
++ `carry off` - закончить что то
++ `be carried away` - увлечься чем то
 
 ###GOOD PHRASE
 + `I can't help but smth` - я не могу не делать что то
